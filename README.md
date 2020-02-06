@@ -1,0 +1,2 @@
+# khiubot
+Simple discord bot 
